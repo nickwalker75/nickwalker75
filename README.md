@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicholas Walker</h1>
 <h3 align="center">A new developer exploring life after college</h3>
 
+- 🔭 I’m currently working on **My Freind Sophia's website**
+
 - 🌱 I’m currently learning **Node.js and React**
 
 - 📫 How to reach me **nickw7531@gmail.com**
